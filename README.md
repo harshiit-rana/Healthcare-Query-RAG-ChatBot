@@ -1,5 +1,5 @@
 ````markdown
-# Healthcare Knowledge Base RAG Chatbot
+#Healthcare Knowledge Base RAG Chatbot
 
 An AI-powered Retrieval-Augmented Generation (RAG) chatbot built in Jupyter Notebook using LangChain, Google Gemini API, ChromaDB, and Gradio.
 
@@ -190,6 +190,3 @@ Run all cells sequentially.
 # Author
 
 Harshit Rana
-
-```
-```
